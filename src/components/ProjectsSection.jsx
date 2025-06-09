@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "Pokedex App",
     description: "Choose your favorite Pokemon and see their stats.",
-    image: "#",
+    image: "src/assests/PokedexImage.png",
     tags: ["Javascript", "Poke-API", "Bootstrap"],
     demoUrl: "https://github.com/AdrewReyes/pokemon_Pokedex?tab=readme-ov-file",
     githubUrl: "https://github.com/AdrewReyes/pokemon_Pokedex?tab=readme-ov-file",
@@ -15,7 +15,7 @@ const projects = [
     title: "Book Search Dashboard",
     description:
       "Full-stack MERN application that allows users to search for books using the Google Books API",
-    image: "#",
+    image: "src/assests/ViewSavedBooks.JPG",
     tags: ["TypeScript", "React", "mongodb"],
     demoUrl: "https://book-search-le8r.onrender.com",
     githubUrl: "https://github.com/AdrewReyes/Book-Search/tree/main",
@@ -25,7 +25,7 @@ const projects = [
     title: "Weather App",
     description:
       "A full-stack weather dashboard application that allows users to search for a city and view current and 5-day weather forecasts",
-    image: "#",
+    image: "src/assests/WeatherAPI.JPG",
     tags: ["TypeScript", "Node.js", "OpenWeatherMap API"],
     demoUrl: "https://weather-server-api-v2v8.onrender.com",
     githubUrl: "https://github.com/AdrewReyes/Weather_Server_API",
